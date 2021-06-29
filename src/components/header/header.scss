@@ -1,0 +1,22 @@
+@import "../../custom";
+.navbar{
+    z-index: 99;
+}
+.navbar-brand {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: $green-color !important;
+
+    &:hover {
+        color: $green-hover !important;
+    }
+}
+
+.navbar-toggler {
+    .bi {
+        color: $green-color !important;
+    }
+}

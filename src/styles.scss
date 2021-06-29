@@ -1,0 +1,42 @@
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background-color: #222342;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+}
+
+.circle-1,
+.circle-2 {
+    position: absolute;
+    height: 4rem;
+    width: 4rem;
+}
+
+.circle-1 {
+    width: 347px;
+    height: 349px;
+    left: -200px;
+    top: 505px;
+    background: rgba(243, 102, 0, 0.25);
+    border-radius: 50%;
+}
+
+.circle-2 {
+    width: 347px;
+    height: 349px;
+    right: -50px;
+    top: -190px;
+    border-radius: 50%;
+    background: rgba(243, 102, 0, 0.25);
+}
