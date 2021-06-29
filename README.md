@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![alt text](https://github.com/angeldelacruzdev/presta-app-frontend/blob/master/6634a8de-b609-4eed-9729-f095ace8abf3.jpg?raw=true)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
