@@ -19,13 +19,22 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav m-auto mb-lg-0">
             <li className="nav-item">
-              <a href="" className="nav-link">
+              <a href="#services" className="nav-link">
                 Sevicios
               </a>
             </li>
             <li className="nav-item">
               <a href="" className="nav-link">
-                Proyectos
+                Contacto
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                href="https://github.com/angeldelacruzdev/mi-portafolio"
+                className="nav-link"
+                target="_blank"
+              >
+                <i className="bi bi-github"></i>
               </a>
             </li>
           </ul>

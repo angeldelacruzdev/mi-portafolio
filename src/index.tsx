@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap-icons/font/bootstrap-icons.css";
+import "animate.css/animate.min.css";
 import "./styles.scss";
 import PortafolioApp from "./PortafolioApp";
 import reportWebVitals from "./reportWebVitals";
